@@ -1,10 +1,12 @@
 /*font-family*/
+/*This is a Google font*/
 p {
-	font-family: Arial;
+	font-family: 'Coiny', cursive;
 }
 
+/*This is a Google font*/
 h1 {
-	font-family: Georgia;
+	font-family: 'Indie Flower', cursive;
 }
 
 /*font-size*/
@@ -26,7 +28,7 @@ span {
 
 /*font-weight - how bold or lightweight the text is, how thick the actual font, or lines, are.*/
 p {
-	font-weight: bold;
+	font-weight: normal;
 }
 
 /*line-height - controls the height of a given line.*/
