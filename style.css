@@ -1,0 +1,44 @@
+p {
+/*Content - Width and Height. Can also use px.*/
+	width: 50%;
+	/*height: 200px;*/
+
+/*Border*/
+	border: 2px solid blue;
+
+/*Padding*/
+	/*padding: 10px;*/
+	padding-left: 40px;
+
+/*Margin - you need the px unless the number is zero.*/
+	/*margin: 100px;*/
+	/*margin-top: 500px;*/
+	/*margin: 20px 40px 500px 100px;*/
+	/*margin: 0 auto 0 auto;*/
+	margin: 0 auto;
+	margin: 50px 20px;
+	}
+
+/*Tic Tac Toe Board*/
+td {
+	width: 100px;
+	height: 100px;
+	}
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+table {
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
