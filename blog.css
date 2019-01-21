@@ -8,6 +8,8 @@ h2 {
 	color: #344967;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 700;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 .date {
@@ -18,11 +20,19 @@ h2 {
 
 p {
 	font-family: 'Source Sans Pro', sans-serif;
-	text-indent: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
 
 }
 
 /*First paragraphs in each section*/
 .one {
-	border-left: 3px solid #607780;
+	border-left: 4px solid #607780;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+hr {
+	margin-left: 15px;
+	margin-right: 15px;
 }

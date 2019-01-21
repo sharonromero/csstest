@@ -42,3 +42,7 @@ table {
 h1 {
 	text-align: center;
 }
+
+hr {
+	margin-left: 10px;
+}
